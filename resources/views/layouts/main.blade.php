@@ -6,6 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Movies App</title>
     <link rel="stylesheet" href="/css/app.css">
+    <script defer src="https://unpkg.com/alpinejs@3.9.3/dist/cdn.min.js"></script>
     @livewireStyles
 </head>
 <body class="font-sans bg-gray-900 text-white">
